@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="45dp"
+    android:layout_alignParentBottom="true"
+    >
+
+    <Button
+        android:id="@+id/menu_collect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/detail_bottom_button"
+        android:text="收藏"
+        android:textColor="@color/white"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/add_shoppingcar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/buy_now"
+        android:background="@drawable/detail_bottom_button"
+        android:layout_marginRight="10dp"
+        android:text="加入购物车"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/buy_now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_centerVertical="true"
+        android:background="@drawable/detail_bottom_button"
+        android:text="立即购买"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>

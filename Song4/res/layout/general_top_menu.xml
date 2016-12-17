@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="45dp" 
+   android:background="@color/app_theme"
+    >
+     <ImageButton
+        android:id="@+id/contact_back"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/app_theme"
+        android:src="@drawable/bt_back" />
+
+   
+      <Button
+        android:id="@+id/contact_edit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/button"
+        android:text="@string/contact_edit"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- 带圆角的选择器 -->
+    <item android:state_pressed="true"><shape>
+            <corners android:radius="8dp" />
+
+            <solid android:color="@color/selected" />
+            <padding android:bottom="7dp" android:left="7dp" android:right="7dp" android:top="7dp" />
+        </shape></item>
+    <item android:state_selected="true"><shape>
+            <corners android:radius="8dp" />
+
+            <solid android:color="@color/selected" />
+            <padding android:bottom="7dp" android:left="7dp" android:right="7dp" android:top="7dp" />
+        </shape></item>
+    <item><shape>
+            <corners android:radius="8dp" />
+
+            <solid android:color="@color/app_theme" />
+
+            <padding android:bottom="7dp" android:left="7dp" android:right="7dp" android:top="7dp" />
+        </shape></item>
+
+</selector>

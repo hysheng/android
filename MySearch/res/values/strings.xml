@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="countries">
+	    <item>Barhrain</item>
+	    <item>China</item>
+	    <item>Russia</item>
+	    <item>America</item>
+	    <item>Korea</item>
+	    <item>Japan</item>
+	    <item>UK</item>
+	</string-array>
+    <string-array name="iphones">
+	    <item>iPhone 4</item>
+	    <item>iPhone 4s</item>
+	    <item>iPhone 5</item>
+	    <item>iPhone 5s</item>
+	    <item>iPhone 5c</item>
+	    <item>iPhone SE</item>
+	    <item>iPhone 6</item>
+	    <item>iPhone 6s</item>
+	    <item>iPhone 6Plus</item>
+	  
+	</string-array>
+
+</resources>

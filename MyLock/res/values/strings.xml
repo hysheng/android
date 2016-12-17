@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MyLock</string>
+	<string name="tip">输入密码</string>
+	<string name="unlock">Unlock</string>
+	<string name="gather">采集样本</string>
+	<string name="stopgather">停止采集</string>
+	<string name="release">播放</string>
+	<string name="stoprelease">停止</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string name="username">用户名</string>
+    <string name="psswd">密码</string>
+    <string name="login">登陆</string>
+    <string name="cancel">取消</string>
+</resources>

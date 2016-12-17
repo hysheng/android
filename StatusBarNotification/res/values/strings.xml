@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StatusBarNotification</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnBar">显示StatusBar</string>
+    <string name="btnUpdate">更新StatusBar</string>
+    <string name="btnCustom">自定义StatusBar</string>
+    <string name="btnCancel">取消StatusBar</string>
+    <string name="process">StatusBar信息已经被处理</string>
+    <string name="builder">使用Builder来创建使用Notifaction</string>
+    
+
+</resources>

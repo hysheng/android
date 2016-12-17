@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+     <Button 
+       android:id="@+id/read"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="读取缓存"/>
+<!--      <Button 
+       android:id="@+id/getSize"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="获取缓存大小"/> -->
+     <TextView 
+         android:id="@+id/size"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:textSize="20sp"
+         android:text="缓存大小为:"/>
+   <Button 
+       android:id="@+id/delCache"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="清除缓存"
+       />
+   <TextView 
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="从网络中获取图片，并写入磁盘缓存中."/>
+  <ImageView 
+      android:id="@+id/img"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/replace"
+      />  
+  <ImageView 
+      android:id="@+id/imgcache"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:src="@drawable/replace"
+      />  
+  
+
+</LinearLayout>

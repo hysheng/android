@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="45dp"
+    android:background="#ff5000" >
+    <ImageButton
+                    android:id="@+id/search_back"
+                    android:layout_width="45dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center_vertical"
+                    android:background="#ff5000"
+                    android:src="@drawable/search_back" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:layout_centerInParent="true"
+                    android:gravity="center"
+                    android:text="礼物详情"
+                    android:textColor="@color/bg_White"
+                    android:textSize="20sp" />
+
+                <ImageButton
+                    android:id="@+id/menu_refresh"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:background="#ff5000"
+                    android:src="@drawable/menu_refresh" />
+
+</RelativeLayout>

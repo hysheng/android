@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" 
+    >
+    
+    <LinearLayout 
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:background="#CCCCCC"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/qq"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="QQ" />
+
+        <Button
+            android:id="@+id/wechat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="WeChat" />
+
+        <Button
+            android:id="@+id/sina"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Sina" />
+
+        <Button
+            android:id="@+id/momo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="陌陌" />
+
+        <Button
+            android:id="@+id/twitter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Twitter" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="30dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="2.26"
+        android:orientation="vertical" >
+
+  </LinearLayout>
+
+</LinearLayout>

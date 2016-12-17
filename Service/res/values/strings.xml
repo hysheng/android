@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">start service</string>
+    <string name="destroy">destroy service</string>
+    <string name="onbind">onbind service</string>
+    <string name="unbind">unbind service</string>
+    <string name="status">get status</string>
+    <string name="intentservice">使用IntentService</string>
+    <string name="transact">Service与Activity进行数据交互</string>
+
+</resources>

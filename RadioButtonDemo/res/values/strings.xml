@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RadioButtonDemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question1">你的性别是?</string>
+    <string name="question2">你毕业了吗？</string>
+    <string name="boy">男孩</string>
+    <string name="girl">女孩</string>
+    <string name="byes">毕业了</string>
+    <string name="bno">没有毕业</string>
+
+</resources>

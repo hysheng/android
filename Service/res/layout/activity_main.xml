@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hys.service.MainActivity" 
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start" />
+    <Button
+        android:id="@+id/destroy"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/destroy" />
+    <Button
+        android:id="@+id/bind"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/onbind" />
+    <Button
+        android:id="@+id/unbind"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/unbind" />
+    <Button
+        android:id="@+id/getStatus"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/status" />
+    <Button
+        android:id="@+id/intentService"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/intentservice" />
+    <Button
+        android:id="@+id/transact"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/transact" />
+    
+
+</LinearLayout>

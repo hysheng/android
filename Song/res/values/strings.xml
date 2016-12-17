@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Song</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">生日送:</string>
+    <string name="countries_prompt">选择你的所在地</string>
+    <string name="func_home">主页</string>
+    <string name="func_birthdays">生日列表</string>
+    <string name="func_contact">联系人</string>
+    <string name="func_settings">设置</string>
+    <string name="func_others">保留未定</string>
+    <string name="search_hint">搜索礼品－商店</string>
+    <string name="search_exp">所在地:</string>
+    <string name="bt_nk">Nike</string>
+    <string name="bt_ad">Adidas</string>
+    <string name="show_name">用户名：474054086</string>
+    <string name="us_detail">用户资料</string>
+    <string name="share">分享</string>
+    <string name="signout">退出</string>
+    
+
+</resources>

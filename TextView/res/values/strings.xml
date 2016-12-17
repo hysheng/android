@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testMe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="textview">myView</string>
+	<string name="mytext">欢迎来到主神空间，这里有你相要的一切。力量，权利，女人，金钱，来吧。Welcome to www.wuxian.com</string>
+	<string name="demo">Welcome to Android</string>
+	<string name="change">更改文本样式</string>
+</resources>

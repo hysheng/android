@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<persons xmlns:pre="http://www.baidu.com">
+<pre:person id="003"><name>hugh</name><age>21</age></pre:person>
+    <pre:person id="007">
+        <name>Yoona</name>
+        <age>23</age>
+    </pre:person>
+    </persons>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Song4</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">生日送:</string>
+    <string name="countries_prompt">选择你的所在地</string>
+    <string name="func_home">主页</string>
+    <string name="func_birthdays">生日列表</string>
+    <string name="func_contact">联系人</string>
+    <string name="func_settings">设置</string>
+    <string name="func_others">保留未定</string>
+    <string name="search_hint">搜索礼品－商店</string>
+    <string name="search_exp">所在地:</string>
+    <string name="bt_nk">Nike</string>
+    <string name="bt_ad">Adidas</string>
+    <string name="show_name">用户名：474054086</string>
+    <string name="us_detail">用户资料</string>
+    <string name="share">分享</string>
+    <string name="signout">退出</string>
+    <string name="viewfinderview_status_text">Align QR Code/barcode within frame to scan</string>
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="delete_history">清除搜索历史</string>
+    <string name="search_history">搜索历史</string>
+    <string name="search_input_hint">输入关键词</string>
+    <string name="sales_volume_tip">月销量：</string>
+    <string name="shop_name_tip">店铺：</string>
+    <string name="address_tip">实际地址：</string>
+    <string name="evaluation_title">礼物评价</string>
+    <string name="evaluation_demo">This is my first time bad experience for shopping!but my girlfriend is very happy,she like this cookies! </string>
+	<string name="date_tip">发布于：</string>
+	<string name="goods_detail_title">礼物详情</string>
+	<string name="collect">收藏</string>
+	<string name="add_to_car">加入购物车</string>
+	<string name="buy_now">立即购买</string>
+	<string name="consumer_name_default">黄家七媳妇</string>
+	<string name="evaluation_date_default">2016年8月26日</string>
+	<string name="goods_name_default">牛仔外套</string>
+	<string name="goods_class_default">时尚外套 明星同版</string>
+	<string name="shop_name_default">带超链接的店名</string>
+	<string name="shop_address_default">商业街007号</string>
+	<string name="goods_price_default">$788</string>
+	<string name="goods_postage_default">卖家包邮</string>
+	<string name="goods_volume_default">50623</string>
+	<string name="goods_name_default2">iphone 5</string>
+	<string name="shop_name_default2">店铺：Apple线上商店</string>
+	<string name="message_title">物流信息</string>
+	<string name="logistics_company_name">474054086</string>
+	<string name="logistics_start_default">唯缘之家</string>
+	<string name="logistics_point_default">中通江北站</string>
+	<string name="logistics_end_default">山水小区A栋2003</string>	
+	<string name="goods_name_tip">商品：</string>
+	<string name="logistics_check_num">中通快递编号：</string>
+	<string name="day_lable">天</string>
+	<string name="contact_edit">编辑</string>
+	<string name="contact_detail_namedemo">Miss A</string>
+	<string name="nick_name">昵称：Yoona</string>
+	<string name="phone_num">手机号码：13794596731</string>
+	<string name="person_info">个人 女 21 属猪</string>
+	<string name="birthday">生日</string>
+	<string name="lunar">农历5月26</string>
+	<string name="christian">公历6月23</string>
+	<string name="special_market">特色市场</string>
+	<string name="hot_market">热门市场</string>
+	<string name="settings">设置</string>
+	<string name="account_management">账户管理</string>
+	<string name="phone">手机号码</string>
+	<string name="mobile_num">184******01</string>
+	<string name="record">礼物纪录</string>
+	<string name="safety_check">安全检测</string>
+	<string name="safety_class">安全级别：中</string>
+	<string name="assistant">辅助功能</string>
+	<string name="abuot">关于Song与帮助</string>
+	<string name="pay_top_title">在线支付</string>
+	<string name="order_top_title">确认订单</string>
+	 <string-array name="search_history_demo">
+	    <item>Barhrain</item>
+	    <item>China</item>
+	    <item>Russia</item>
+	    <item>America</item>
+	    <item>Korea</item>
+	    <item>Japan</item>
+	    <item>UK</item>
+	</string-array>
+	 <string-array name="iphones">
+	    <item>iPhone 4</item>
+	    <item>iPhone 4s</item>
+	    <item>iPhone 5</item>
+	    <item>iPhone 5s</item>
+	    <item>iPhone 5c</item>
+	    <item>iPhone SE</item>
+	    <item>iPhone 6</item>
+	    <item>iPhone 6s</item>
+	    <item>iPhone 6Plus</item>  
+	</string-array>
+	<string-array 
+	    name="contact_names_demo">
+	    <item >Miss A</item>
+	    <item >Miss B</item>
+	    <item >Miss C</item>
+	    <item >Miss D</item>
+	    <item >Miss E</item>
+	    <item >Miss F</item>
+	    <item >Miss G</item>
+	    <item >Miss H</item>
+	    <item >Miss I</item>
+	    <item >Miss J</item>
+	    <item >Miss K</item>
+	    <item >Miss L</item>
+	    <item >Miss M</item>
+	</string-array>
+	<string-array 
+	    name="contact_days_demo">
+	    <item >2</item>
+	    <item >10</item>
+	    <item >12</item>
+	    <item >25</item>
+	    <item >39</item>
+	    <item >77</item>
+	    <item >89</item>
+	    <item >103</item>
+	    <item >165</item>
+	    <item >263</item>
+	    <item >270</item>
+	    <item >299</item>
+	    <item >299</item>
+	</string-array>
+	<string-array name="goods_name_demo">
+	    <item>泰迪熊毛绒玩具</item>
+	    <item>卡蒂罗镶施华洛世奇锆银项链</item>
+	    <item>Chanel清新粉色黄色邂逅</item>
+	    <item>卡西欧男士手表</item>
+	    <item>海澜之家男士白衬衫</item>
+	    <item>花花公子英伦皮鞋</item>
+	    <item>CHARLES KEITH高跟鞋</item>
+	</string-array>
+	<string-array name="goods_prices_demo">
+	    <item>120</item>
+	    <item>2999</item>
+	    <item>699</item>
+	    <item>999</item>
+	    <item>213</item>
+	    <item>465</item>
+	    <item>399</item>
+	</string-array>
+	<string-array name="goods_volume_demo">
+	    <item>35460</item>
+	    <item>4503</item>
+	    <item>864</item>
+	    <item>2635</item>
+	    <item>68954</item>
+	    <item>34210</item>
+	    <item>9645</item>
+	</string-array>
+</resources>
